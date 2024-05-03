@@ -1,0 +1,12 @@
+alacritty-themes
+cht.sh-git
+cpu-x
+lf-bin
+mimeo
+mkinitcpio-numlock
+pfetch
+pipes.sh
+xdg-ninja
+yay-bin
+yay-bin-debug
+zsh-autocomplete

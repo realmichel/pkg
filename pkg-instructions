@@ -1,0 +1,7 @@
+For repository package
+
+sudo pacman -S --needed - < pkglist-repo.txt
+
+For AUR package
+
+for x in $(< pkglist-aur.txt); do yay -S $x; done
